@@ -1,0 +1,182 @@
+{
+  "customers": [
+    {
+      "id": "601482fd67e11a3834541bdd",
+      "name": "José Da Silva2",
+      "cpf": "321.123.123-12",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "PE"
+      },
+      "contact": {
+        "phone": "(11) 99999-0000",
+        "email": "josedasilva@gmail.com"
+      },
+      "cep": "53.427-000",
+      "publicPlace": "av. teste",
+      "number": "1123",
+      "district": "Teste",
+      "city": "teste",
+      "state": "PE",
+      "phone": "(11) 99999-0000",
+      "email": "josedasilva@gmail.com"
+    },
+    {
+      "id": "334582fd67e11a3834541bdd",
+      "name": "João de Souza",
+      "cpf": "855.321.123-12",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "PE"
+      },
+      "contact": {
+        "phone": "(81) 99814-5662",
+        "email": "joaodesouza@gmail.com"
+      }
+    },
+    {
+      "id": "554382fd67e11a3834541bdd",
+      "name": "Felipe de Almeida",
+      "cpf": "345.123.321-12",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "SP"
+      },
+      "contact": {
+        "phone": "(31) 99234-0062",
+        "email": "felipedealmeida@gmail.com"
+      }
+    },
+    {
+      "id": "667882fd67e11a3834541bdd",
+      "name": "Rodolfo Araújo",
+      "cpf": "677.123.154-32",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "RJ"
+      },
+      "contact": {
+        "phone": "(21) 99822-4455",
+        "email": "rodolfoaraujo@gmail.com"
+      }
+    },
+    {
+      "id": "887682fd67e11a3834541bdd",
+      "name": "Marcelo Sampaio",
+      "cpf": "967.155.723-12",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "PR"
+      },
+      "contact": {
+        "phone": "(46) 97865-4062",
+        "email": "marcelosampaio@gmail.com"
+      }
+    },
+    {
+      "id": "41224d776a326fb40f000001",
+      "name": "Maria da Silva",
+      "cpf": "457.144.323-12",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "SP"
+      },
+      "contact": {
+        "phone": "(12) 91235-0062",
+        "email": "mariadasilva@gmail.com"
+      }
+    },
+    {
+      "id": "778982fd67e11a3834541bdd",
+      "name": "Joana Ferraz",
+      "cpf": "235.123.234-56",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "PB"
+      },
+      "contact": {
+        "phone": "(83) 97894-0062",
+        "email": "joanaferraz@gmail.com"
+      }
+    },
+    {
+      "id": "116682fd67e11a3834541bdd",
+      "name": "Fernanda Pinheiro",
+      "cpf": "267.123.678-92",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "SP"
+      },
+      "contact": {
+        "phone": "(11) 98467-3456",
+        "email": "fernandapinheiro@gmail.com"
+      }
+    },
+    {
+      "id": "667182fd67e11a3834541bdd",
+      "name": "Kátia Rodrigues",
+      "cpf": "976.567.123-12",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "PE"
+      },
+      "contact": {
+        "phone": "(81) 97223-6692",
+        "email": "katiarodrigues@gmail.com"
+      }
+    },
+    {
+      "id": "332582fd67e11a3834541bdd",
+      "name": "Carla Paes",
+      "cpf": "742.339.923-12",
+      "address": {
+        "cep": "53.427-000",
+        "publicPlace": "av. teste",
+        "number": "1123",
+        "district": "Teste",
+        "city": "teste",
+        "state": "RJ"
+      },
+      "contact": {
+        "phone": "(21) 99849-5578",
+        "email": "carlapaes@gmail.com"
+      }
+    }
+  ]
+}
